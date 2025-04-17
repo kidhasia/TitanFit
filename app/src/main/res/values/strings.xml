@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TitanFit</string>
+    <string name="logo_description">The logo </string>
+    <string name="welcome_username">TitanFit </string>
+    <string name="notification_icon">Notification Icon</string>
+    <string name="profile_icon">Profile Icon</string>
+</resources>
