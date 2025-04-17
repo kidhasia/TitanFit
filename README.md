@@ -28,3 +28,4 @@ TtanFit is a gym membership management Android app built with Kotlin and XML. De
 1. Clone the repository:
    ```bash
    git clone https://github.com/kidhasia/TtanFit.git
+
